@@ -81,7 +81,7 @@ rmcp = { git = "https://github.com/modelcontextprotocol/rust-sdk.git", rev = "db
 ] }
 rmcp-macros = { git = "https://github.com/modelcontextprotocol/rust-sdk.git", rev = "db03f63e76b5b32f65d34a1bd08ae56dab595f60", default-features = true}
 parking_lot = "0.12.3"
-rand = "0.8.5"
+rand = "0.9.3"
 url = "2.5.4"
 # deno_core = "0.334.0"
 
